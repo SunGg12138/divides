@@ -1,0 +1,18 @@
+{
+  "name": "divides",
+  "description": "divide a number to a group of figures",
+  "main": "./dist/divides.min.js",
+  "license": "ISC",
+  "keywords": [
+    "divide",
+    "divides"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

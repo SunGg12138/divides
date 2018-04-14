@@ -1,0 +1,15 @@
+{
+  "name": "divides",
+  "version": "1.0.0",
+  "description": "divide a number to a group of figures",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["divide", "divides"],
+  "author": "",
+  "license": "ISC"
+}
