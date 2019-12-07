@@ -1,6 +1,6 @@
 {
   "name": "divides",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "divide a number to a group of figures",
   "main": "index.js",
   "directories": {

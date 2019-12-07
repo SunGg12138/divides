@@ -1,4 +1,4 @@
-module.export = divides;
+module.exports = divides;
 
 /**
  * 根据数量来随机出分配总数的数组（以整数形式）
